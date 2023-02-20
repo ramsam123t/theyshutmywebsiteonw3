@@ -1,1 +1,1 @@
-ramsam123@.github.io
+ramsam123.github.io
